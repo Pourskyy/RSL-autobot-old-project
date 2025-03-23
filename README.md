@@ -10,7 +10,7 @@ Features
 Known Issues & Areas for Improvement
 -Stability: The bot occasionally crashes or gets stuck on certain screens.
 -Efficiency: Optimization is required to reduce run times and improve decision-making.
--Detection Avoidance: Needs better methods to avoid detection by the game’s anti-bot system.
+-Detection Avoidance: Needs better methods to detect its current state.
 -User Interface: Currently minimalistic; should be improved for better usability.
 
 Disclaimer
